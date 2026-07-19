@@ -1,0 +1,6 @@
+{
+  "name": "Resume Portfolio & Viewer Analytics Dashboard",
+  "description": "A professional portfolio website for Daniyel G., featuring integrated real-time viewer analytics, engagement metrics tracking, and a contact message dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
